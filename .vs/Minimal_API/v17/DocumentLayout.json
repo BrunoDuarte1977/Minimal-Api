@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dio\\net\\Minimal_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|d:\\dio\\net\\minimal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|d:\\dio\\net\\minimal_api\\infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|solutionrelative:infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|d:\\dio\\net\\minimal_api\\dominio\\servicos\\administradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|solutionrelative:dominio\\servicos\\administradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|d:\\dio\\net\\minimal_api\\dominio\\interfaces\\iadministradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC05FE7-51B0-41E5-AA40-66C722F4BDF0}|minimal_api.csproj|solutionrelative:dominio\\interfaces\\iadministradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Migrations\\DbContextoModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\DbContextoModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Migrations\\20241002193609_AdministradorMigration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241002193609_AdministradorMigration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Domain\\Entities\\Administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Domain\\Interfaces\\IAdministradorServico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\IAdministradorServico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Infra\\DB\\DbContexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infra\\DB\\DbContexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Domain\\DTO\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\DTO\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dio\\net\\Minimal_API\\Domain\\Services\\AdministradorServico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Services\\AdministradorServico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContexto.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Infraestrutura\\DB\\DbContexto.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\DB\\DbContexto.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Infraestrutura\\DB\\DbContexto.cs",
+              "RelativeToolTip": "Infraestrutura\\DB\\DbContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:23:26.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministradorServico.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Dominio\\Servicos\\AdministradorServico.cs",
+              "RelativeDocumentMoniker": "Dominio\\Servicos\\AdministradorServico.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Dominio\\Servicos\\AdministradorServico.cs",
+              "RelativeToolTip": "Dominio\\Servicos\\AdministradorServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:08:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdministradorServico.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Dominio\\Interfaces\\IAdministradorServico.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IAdministradorServico.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Dominio\\Interfaces\\IAdministradorServico.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IAdministradorServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:35:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextoModelSnapshot.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Migrations\\DbContextoModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DbContextoModelSnapshot.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Migrations\\DbContextoModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DbContextoModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:48:46.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241002193609_AdministradorMigration.Designer.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Migrations\\20241002193609_AdministradorMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241002193609_AdministradorMigration.Designer.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Migrations\\20241002193609_AdministradorMigration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241002193609_AdministradorMigration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:48:34.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Domain\\Entities\\Administrator.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Administrator.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Domain\\Entities\\Administrator.cs",
+              "RelativeToolTip": "Domain\\Entities\\Administrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:47:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAdministradorServico.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Domain\\Interfaces\\IAdministradorServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAdministradorServico.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Domain\\Interfaces\\IAdministradorServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAdministradorServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:47:21.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContexto.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Infra\\DB\\DbContexto.cs",
+              "RelativeDocumentMoniker": "Infra\\DB\\DbContexto.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Infra\\DB\\DbContexto.cs",
+              "RelativeToolTip": "Infra\\DB\\DbContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:46:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Domain\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Domain\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:45:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministradorServico.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Domain\\Services\\AdministradorServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\AdministradorServico.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Domain\\Services\\AdministradorServico.cs",
+              "RelativeToolTip": "Domain\\Services\\AdministradorServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:58:16.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dio\\net\\Minimal_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dio\\net\\Minimal_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:55:36.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
