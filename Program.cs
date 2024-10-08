@@ -63,7 +63,7 @@ string GerarTokemJwt(Administrador administrador){
 
         var claims = new List<Claim>()
         {
-            new Claim(ClaimTypes.Email, administrador.Email),
+            new Claim("Email", administrador.Email),
             new Claim("Perfil", administrador.Perfil)
         };
 
