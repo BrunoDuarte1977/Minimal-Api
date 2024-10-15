@@ -72,7 +72,7 @@ namespace Test.Servicos
 
             //Assert
             //Assert.AreEqual(1, administradorServico.Todos(1).Count());
-            Assert.AreEqual(1, admBanco.Id);
+            Assert.AreEqual(1, admBanco?.Id);
         }
     }
 }
