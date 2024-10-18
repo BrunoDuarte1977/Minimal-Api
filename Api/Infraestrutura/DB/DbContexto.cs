@@ -8,7 +8,7 @@ namespace Minimal_API.Infraestrutura.DB
     {
         private readonly IConfiguration _configuracaoAppSettings;
 
-        public DbContexto(IConfiguration configuracaoAppSettings)
+        public DbContexto(DbContextOptions<DbContexto> options, IConfiguration configuracaoAppSettings) : base(options)
         {
             _configuracaoAppSettings = configuracaoAppSettings;
         }

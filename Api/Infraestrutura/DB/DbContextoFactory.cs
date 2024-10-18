@@ -21,7 +21,7 @@ namespace Minimal_API.Infraestrutura.DB
                 ServerVersion.AutoDetect(stringConexao)
             );
 
-            return new DbContexto(configuration);
+            return new DbContexto(optionsBuilder.Options, configuration);
         }
     }
 }
