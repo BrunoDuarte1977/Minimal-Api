@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Minimal_API.Dominio.Entidades;
+using Microsoft.Extensions.Configuration;
 
 namespace Minimal_API.Infraestrutura.DB
 {
@@ -11,13 +12,15 @@ namespace Minimal_API.Infraestrutura.DB
         {
             _configuracaoAppSettings = configuracaoAppSettings;
         }
+
         public DbSet<Administrador> Administradores { get; set; } = default!;
         public DbSet<Veiculo> Veiculos { get; set; } = default!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Administrador>().HasData(
-                new Administrador{
+                new Administrador
+                {
                     Id = 1,
                     Email = "adm@teste.com",
                     Senha = "123456",
@@ -28,14 +31,14 @@ namespace Minimal_API.Infraestrutura.DB
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if(!optionsBuilder.IsConfigured)
+            if (!optionsBuilder.IsConfigured)
             {
                 var stringConexao = _configuracaoAppSettings.GetConnectionString("MySql")?.ToString();
-                if(!string.IsNullOrEmpty(stringConexao))
+                if (!string.IsNullOrEmpty(stringConexao))
                 {
                     optionsBuilder.UseMySql(
-                                            stringConexao, 
-                                            ServerVersion.AutoDetect(stringConexao)
+                        stringConexao,
+                        ServerVersion.AutoDetect(stringConexao)
                     );
                 }
             }
